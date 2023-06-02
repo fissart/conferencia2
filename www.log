@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.2)  2 JUN 2023 12:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.2)  2 JUN 2023 13:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -895,7 +895,7 @@ Package hyperref Warning: Option `pdfauthor' has already been used,
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./www.toc)
-<UNSCH.png, id=84, 315.0315pt x 421.4655pt>
+<UNSCH.png, id=90, 315.0315pt x 421.4655pt>
 File: UNSCH.png Graphic file (type png)
 <use UNSCH.png>
 Package pdftex.def Info: UNSCH.png  used on input line 24.
@@ -954,16 +954,23 @@ Package pdftex.def Info: UNSCH.png  used on input line 129.
 ]
 File: UNSCH.png Graphic file (type png)
 <use UNSCH.png>
-Package pdftex.def Info: UNSCH.png  used on input line 137.
+Package pdftex.def Info: UNSCH.png  used on input line 141.
 (pdftex.def)             Requested size: 28.45274pt x 38.0653pt.
  [10
 
 ]
 File: UNSCH.png Graphic file (type png)
 <use UNSCH.png>
-Package pdftex.def Info: UNSCH.png  used on input line 142.
+Package pdftex.def Info: UNSCH.png  used on input line 149.
 (pdftex.def)             Requested size: 28.45274pt x 38.0653pt.
  [11
+
+]
+File: UNSCH.png Graphic file (type png)
+<use UNSCH.png>
+Package pdftex.def Info: UNSCH.png  used on input line 154.
+(pdftex.def)             Requested size: 28.45274pt x 38.0653pt.
+ [12
 
 ]
 \tf@nav=\write6
@@ -977,13 +984,13 @@ Package pdftex.def Info: UNSCH.png  used on input line 142.
 
  (./www.aux)
 Package rerunfilecheck Info: File `www.out' has not changed.
-(rerunfilecheck)             Checksum: 09F90E9488F559E5FCF8D80F91DDEF92;564.
+(rerunfilecheck)             Checksum: 8A12E77ABB8E8EC7FA2E2EA3C4D9FA90;740.
  ) 
 Here is how much of TeX's memory you used:
- 21818 strings out of 480247
- 423892 string characters out of 5896152
- 670724 words of memory out of 5000000
- 39300 multiletter control sequences out of 15000+600000
+ 21827 strings out of 480247
+ 423973 string characters out of 5896152
+ 671724 words of memory out of 5000000
+ 39306 multiletter control sequences out of 15000+600000
  493600 words of font info for 40 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  99i,20n,104p,410b,663s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -991,10 +998,10 @@ Here is how much of TeX's memory you used:
 public/lm/lmss10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss12.pfb></usr/s
 hare/texmf/fonts/type1/public/lm/lmss17.pfb></usr/share/texmf/fonts/type1/publi
 c/lm/lmss8.pfb></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on www.pdf (11 pages, 2218871 bytes).
+Output written on www.pdf (12 pages, 2222583 bytes).
 PDF statistics:
- 388 PDF objects out of 1000 (max. 8388607)
- 353 compressed objects within 4 object streams
- 26 named destinations out of 1000 (max. 500000)
- 72 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 433 PDF objects out of 1000 (max. 8388607)
+ 397 compressed objects within 4 object streams
+ 29 named destinations out of 1000 (max. 500000)
+ 80 words of extra memory for PDF output out of 10000 (max. 10000000)
 
