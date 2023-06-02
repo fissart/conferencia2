@@ -1,0 +1,3 @@
+\beamer@sectionintoc {1}{Desarrollador Full Satck}{3}{0}{1}
+\beamer@sectionintoc {2}{Lenguajes y herramientas para ser Full Stack}{5}{0}{2}
+\beamer@sectionintoc {3}{Base de datos}{8}{0}{3}
